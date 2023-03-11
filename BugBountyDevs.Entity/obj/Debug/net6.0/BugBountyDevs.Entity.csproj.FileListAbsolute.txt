@@ -1,0 +1,12 @@
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.Entity\bin\Debug\net6.0\BugBountyDevs.Entity.deps.json
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.Entity\bin\Debug\net6.0\BugBountyDevs.Entity.dll
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.Entity\bin\Debug\net6.0\BugBountyDevs.Entity.pdb
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.Entity\obj\Debug\net6.0\BugBountyDevs.Entity.csproj.AssemblyReference.cache
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.Entity\obj\Debug\net6.0\BugBountyDevs.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.Entity\obj\Debug\net6.0\BugBountyDevs.Entity.AssemblyInfoInputs.cache
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.Entity\obj\Debug\net6.0\BugBountyDevs.Entity.AssemblyInfo.cs
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.Entity\obj\Debug\net6.0\BugBountyDevs.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.Entity\obj\Debug\net6.0\BugBountyDevs.Entity.dll
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.Entity\obj\Debug\net6.0\refint\BugBountyDevs.Entity.dll
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.Entity\obj\Debug\net6.0\BugBountyDevs.Entity.pdb
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.Entity\obj\Debug\net6.0\ref\BugBountyDevs.Entity.dll
