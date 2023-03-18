@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aX/anJXlAySfH3QEJD4/f8yLLyVQf+XcBBhAvKMYhPA=",
+  "Source": "BugBountyDevs.WebApi",
+  "BasePath": "_content/BugBountyDevs.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.DataAccess\bin\Debug\net6.0\BugBountyDevs.DataAccess.deps.json
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.DataAccess\bin\Debug\net6.0\BugBountyDevs.DataAccess.runtimeconfig.json
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.DataAccess\bin\Debug\net6.0\BugBountyDevs.DataAccess.dll
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.DataAccess\bin\Debug\net6.0\BugBountyDevs.DataAccess.pdb
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.DataAccess\bin\Debug\net6.0\BugBountyDevs.Entity.dll
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.DataAccess\bin\Debug\net6.0\BugBountyDevs.Entity.pdb
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.DataAccess\obj\Debug\net6.0\BugBountyDevs.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.DataAccess\obj\Debug\net6.0\BugBountyDevs.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.DataAccess\obj\Debug\net6.0\BugBountyDevs.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.DataAccess\obj\Debug\net6.0\BugBountyDevs.DataAccess.AssemblyInfo.cs
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.DataAccess\obj\Debug\net6.0\BugBountyDevs.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.DataAccess\obj\Debug\net6.0\BugBountyDevs.DataAccess.csproj.CopyComplete
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.DataAccess\obj\Debug\net6.0\BugBountyDevs.DataAccess.dll
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.DataAccess\obj\Debug\net6.0\refint\BugBountyDevs.DataAccess.dll
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.DataAccess\obj\Debug\net6.0\BugBountyDevs.DataAccess.pdb
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.DataAccess\obj\Debug\net6.0\BugBountyDevs.DataAccess.genruntimeconfig.cache
+C:\Users\Oğuz\Desktop\.NET\BugBountyDevs\BugBountyDevs.DataAccess\obj\Debug\net6.0\ref\BugBountyDevs.DataAccess.dll

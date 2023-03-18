@@ -13,8 +13,9 @@ namespace BugBountyDevs.Entity.Concretes
 
         public string BookName { get; set; }
         // Nav Property
-        public virtual int AuthorId { get; set; }
+
         // Nav Property
+        
         public virtual HashSet<Author> Authors { get; set; }
 
         public Book()
