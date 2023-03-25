@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "BugBountyDevs.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BugBountyDevs.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BugBountyDevs.Entity.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BugBountyDevs.Entity/1.0.0": {
+      "type": "project",
+      "path": "../BugBountyDevs.Entity/BugBountyDevs.Entity.csproj",
+      "msbuildProject": "../BugBountyDevs.Entity/BugBountyDevs.Entity.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "BugBountyDevs.Entity >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Oğuz\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Oğuz\\Desktop\\.NET\\BugBountyDevs\\BugBountyDevs.Entity\\BugBountyDevs.Entity.csproj": {
+              "projectPath": "C:\\Users\\Oğuz\\Desktop\\.NET\\BugBountyDevs\\BugBountyDevs.Entity\\BugBountyDevs.Entity.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -61,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pebjwlqimu/qMRRu70r8j7JTrJ2ENXu1eidr4OQ6caK4PluQG9oOXjNpikA9bg8HDdhFW23Bpt4mWSddX4Pi1Q==",
+  "dgSpecHash": "snF2a+QqwzMtx76tn7CJd+3CgMfVdDaKKrYWZI6PZfxGwRm8Y0XAXueusv1V8QjOSLVY1pOyorFpr42YEtXhhQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Oğuz\\Desktop\\.NET\\BugBountyDevs\\BugBountyDevs.DataAccess\\BugBountyDevs.DataAccess.csproj",
   "expectedPackageFiles": [
