@@ -7,10 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Concretes\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <ProjectReference Include="..\BugBountyDevs.DataAccess\BugBountyDevs.DataAccess.csproj" />
     <ProjectReference Include="..\BugBountyDevs.Entity\BugBountyDevs.Entity.csproj" />
   </ItemGroup>
 

@@ -5,11 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BugBountyDevs.DataAccess.Abstracts
+namespace BugBountyDevs.Businness.Abstracts
 {
-    public interface IProductRepository : IBaseRepository<Product>
+    public interface IBookService : IBaseService<Book>
     {
-
 
     }
 }

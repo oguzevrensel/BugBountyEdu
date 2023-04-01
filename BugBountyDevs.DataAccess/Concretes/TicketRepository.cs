@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace BugBountyDevs.DataAccess.Concretes
 {
-    public class AuthorRepository : BaseRepository<Author, BugBountyContext> , IAuthorRepository
+    internal class TicketRepository : BaseRepository<Ticket, BugBountyContext> , ITicketRepository
     {
     }
 }
