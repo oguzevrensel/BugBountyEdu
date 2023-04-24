@@ -18,7 +18,7 @@ namespace BugBountyDevs.DataAccess.Concretes.EF.Contexts
 
 
         }
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        protected override void OnModelCreating(ModelBuilder modelBuilder) // Codefirst için kullanıldı
         {
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(AuthorMap).Assembly);
         }

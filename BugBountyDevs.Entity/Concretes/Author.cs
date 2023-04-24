@@ -18,11 +18,13 @@ namespace BugBountyDevs.Entity.Concretes
         // Nav Property
         
 
-        public virtual HashSet<Book> Books { get; set; }
+        public virtual HashSet<Book> Books { get; set; }  // Override edilebilmesi için virtual
 
         public Author()
         {
-            Books = new HashSet<Book>();
+            Books = new HashSet<Book>(); // Books'da NullPointer hatası almamak için
         }
+
+        
     }
 }

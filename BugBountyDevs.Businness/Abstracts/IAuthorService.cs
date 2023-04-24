@@ -9,5 +9,6 @@ namespace BugBountyDevs.Businness.Abstracts
 {
     public interface IAuthorService : IBaseService<Author>
     {
+
     }
 }
